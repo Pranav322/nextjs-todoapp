@@ -1,6 +1,6 @@
 
 
-import { Auth } from "./auth";
+import { Todo } from "./Todo";
 import MenuAppBar from "./components/navbar";
 
 
@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <MenuAppBar />
     
-      <Auth /> 
+      <Todo /> 
       
 
       
